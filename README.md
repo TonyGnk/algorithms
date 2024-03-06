@@ -28,6 +28,8 @@ One of the standout features of this app is its intuitive Graphical User Interfa
 - Best First
 - A\*
 
+## 🤝 Contributing
+
 #### Contributions are welcome! If you'd like to contribute, please follow these guidelines:
 
 1. Fork the repository and create a new branch for your feature.
